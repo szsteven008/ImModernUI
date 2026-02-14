@@ -1,1 +1,5 @@
-
+imgui https://github.com/ocornut/imgui.git
+json https://github.com/nlohmann/json.git
+nanosvg https://github.com/memononen/nanosvg.git
+nativefiledialog-extended https://github.com/btzy/nativefiledialog-extended.git
+stb https://github.com/nothings/stb.git
