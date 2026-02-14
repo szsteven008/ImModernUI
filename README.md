@@ -1,4 +1,4 @@
-ImModernUI
+# ImModernUI
 
 Modern shadcn-inspired UI components for Dear ImGui
 
